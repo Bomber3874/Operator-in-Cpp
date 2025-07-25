@@ -2,6 +2,9 @@
 
 # AIM - To study and implement operators in C++
 
+# Software Used
+Visual Studio Code
+
 # Theory
 
 1. Arithmetic Operators
@@ -77,3 +80,7 @@ Used to increase or decrease a variable’s value by 1.
     Can be prefix (++x) or postfix (x++)
 
 Example: i++, --count
+
+# Conclusion
+
+In this experiment, we explored various types of operators in C++ and their practical usage. Operators are fundamental to any programming language as they allow manipulation of data and control of program logic. By understanding arithmetic, relational, logical, assignment, and increment/decrement operators, we gain the ability to perform calculations, make decisions, and control the flow of a C++ program effectively. Mastery of these operators is essential for building logical, efficient, and error-free code.
